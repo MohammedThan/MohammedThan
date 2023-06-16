@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **React-native & firebase**
 
-- 📫 You can contact me at **MohammedTh.912@gmailc.om**
+- 📫 You can contact me at **MohammedTh.912@gmail.com**
+ 
+- 🤝  I'm open to collaborating on any project that works towards creativity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
