@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedthan&show_icons=true&locale=en&layout=compact" alt="mohammedthan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedthan&show_icons=true&locale=en" alt="mohammedthan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedThan&hide_border=false&include_all_commits=false&count_private=true" alt="mohammedthan" /></p>
