@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-Thunayan</h1>
-<h3 align="center">Software engineering  at Lazywait</h3>
+<h3 align="center">Software engineer at Lazywait</h3>
 <h3 align="center">Software engineering student at KFUPM</h3>
 
 - 🌱 I’m currently learning **React-native & firebase**
