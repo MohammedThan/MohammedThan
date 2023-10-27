@@ -8,7 +8,6 @@
  
 - 🤝  I'm open to collaborating on any project that works towards creativity!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
